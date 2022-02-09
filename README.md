@@ -93,3 +93,5 @@ advisories for dependencies used within your application.
 Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-practices.html?icmpid=docs_acs_rm_sec
 
 Added a new comment to trigger pipeline...
+
+Added a comment again to trigger AWS CodePipeline trigger.
